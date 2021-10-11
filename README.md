@@ -1,2 +1,3 @@
-# Automated-Trading-Agents-for-the-Smart-Grid
+# Optimizing Energy Market Participation with Batteries
 Topic and Project for Master Thesis at UPC-FIB
+
